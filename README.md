@@ -23,6 +23,10 @@
 - Выбрать radiobutton "Robots rule!".
 - Нажать на кнопку Submit.
 
+### 2.1.5 Решение
+
+[lesson2-1-step5.py](lesson2-1-step5.py)
+
 ## Лекция 2.1 шаг 7
 
 ### 2.1.7 Задание
@@ -40,3 +44,7 @@
 - Отметить checkbox "I'm the robot".
 - Выбрать radiobutton "Robots rule!".
 - Нажать на кнопку "Submit".
+
+### 2.1.7 Решение
+
+[lesson2-1-step7.py](lesson2-1-step7.py)
